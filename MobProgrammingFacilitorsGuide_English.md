@@ -254,7 +254,7 @@ Emotions are often something not brought to work. But they are powerful indicato
 
 ## More Information
 
-[Download the full guidebook](http://mobprogrammingguidebook.com)  
+[Download the full guidebook](https://mobprogrammingguidebook.xyz)  
 
 [This guide at](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/)
 
